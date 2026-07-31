@@ -6,7 +6,7 @@ A powerful, stateful, orchestration engine built using **LangGraph.js**, **Node.
 
 ## 🚀 Features
 
-* **Stateful Multi-Agent Workflows:** Built using LangGraph's state management to maintain context across complex LLM steps.
+* **Stateful Multi-Agent Workflows:** Built using LangGraph's state management to maintain context across complex LLM steps and nodes.
 * **Cyclic Graphs:** Supports loops and conditional routing that standard linear chains can't handle.
 * **TypeScript Native:** Full type safety for graph state, inputs, outputs, and custom tools.
 * **Modern Stack:** Powered by LangChain packages, fully integrated with `dotenv` for configuration, and compiled using modern TS workflows.
